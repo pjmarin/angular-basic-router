@@ -1,0 +1,1 @@
+{"version":3,"file":"first-link.js","sourceRoot":"","sources":["../../first-link/first-link.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,oBAAoB,CAAC;AAE/C,MAAM,CAAC,cAAc,CAAC,MAAM,CAAC,YAAY,EAAE,SAAS,CAAC,CAAC","sourcesContent":["import { FirstLink } from './src/FirstLink.js';\n\nwindow.customElements.define('first-link', FirstLink);\n"]}
